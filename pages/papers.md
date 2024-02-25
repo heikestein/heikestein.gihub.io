@@ -1,7 +1,6 @@
 ---
-layout: category
+layout: page
 title: Papers
-category: papers
 permalink: /papers
 ---
 
