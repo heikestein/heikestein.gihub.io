@@ -6,3 +6,4 @@ permalink: /cv
 
 Short CV: 
 
+Long CV:
