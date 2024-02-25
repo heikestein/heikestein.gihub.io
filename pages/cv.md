@@ -4,3 +4,6 @@ title: CV
 category: cv
 permalink: /cv
 ---
+
+Short CV: 
+
