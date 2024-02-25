@@ -7,4 +7,4 @@ permalink: /about
 I'm a computational neuroscientist with a strong interest in behavioral dynamics.
 
 
-![head](/eikestein.github.io/assets/img/head.jpg)
+![head](/heikestein.github.io/assets/img/head.jpg)
