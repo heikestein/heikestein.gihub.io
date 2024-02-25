@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+I work in the Group for Neural Theory, in the Département d'Etudes Cognitives at ENS. My office is in 29 Rue d'Ulm, 75005 Paris. 
+
+You can also write me an email at heike . c . stein at gmail com, or follow me on ex twitter (heikecstein).
