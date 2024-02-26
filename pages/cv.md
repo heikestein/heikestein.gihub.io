@@ -4,10 +4,10 @@ title: CV
 permalink: /cv
 ---
 
-*2020 - 24*: <br/>  
+*2020 - 24*: <br/>
 Postdoc at ENS Paris (EMBO fellow), PI: N. Alex Cayco-Gajic
 
-*2016 - 20*: <br/>  
+*2016 - 20*: <br/>
 PhD student at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI: Albert Compte
 
 *2013 - 16*: <br/>
