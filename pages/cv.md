@@ -4,8 +4,6 @@ title: CV
 permalink: /cv
 ---
 
-### Short CV
-
 *2020 - 24*: <br/> 
 Postdoc at ENS Paris (EMBO fellow) <br/> 
 PI: N. Alex Cayco-Gajic
