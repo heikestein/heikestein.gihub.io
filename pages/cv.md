@@ -6,19 +6,11 @@ permalink: /cv
 
 **Academic trajectory**
 
-|----------------|----------------------------------------------------------------------------------|
+
 | *2020 - 2024*  | Postdoctoral researcher at ENS Paris (EMBO fellow) <br/> PI: N. Alex Cayco-Gajic |
 | *2016 - 2020*  | Predoctoral researcher at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow) <br/> PI: Albert Compte |
-
-*2016 - 2020*: 
-Predoctoral researcher at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow)
-PI: Albert Compte
-
-*2013 - 2016*: 
-MSc in Cognitive Neuroscience at TU Dresden
-
-*2009 - 2013*: 
-BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid
+| *2013 - 2016*: | MSc in Cognitive Neuroscience at TU Dresden |
+| *2009 - 2013*: | BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid |
 
 **Other important things**
 *2022 - 2024*: 
