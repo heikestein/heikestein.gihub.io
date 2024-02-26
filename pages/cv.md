@@ -4,6 +4,8 @@ title: CV
 permalink: /cv
 ---
 
+# Short CV
+
 *2020 - 24*: <br/> 
 Postdoc at ENS Paris (EMBO fellow) <br/> 
 PI: N. Alex Cayco-Gajic
@@ -19,5 +21,6 @@ MSc in Cognitive Neuroscience at TU Dresden
 BSc in Psychology at Universität Tübingen, <br/>
 Erasmus semester at UPC Madrid
 
+# Long CV
 
-Long CV: download [here](https://heikestein.github.io/assets/documents/CV.pdf)
+download [here](https://heikestein.github.io/assets/documents/CV.pdf)
