@@ -13,6 +13,7 @@ permalink: /cv
 | *2009 - '13*: | BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid |
 
 **Other important dates**
+
 | *2022 - '24*: | TA and co-organizer of Barcelona Advanced Modeling of Behavior (BAMB!) summer school |
 | *2023*:       | Visiting researcher at NYU New York <br/> PI: Cristina Savin | 
 | *2022*:       | Co-organizer of Bernstein workshop "Distributed computations across brain regions" |
