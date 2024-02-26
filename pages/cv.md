@@ -5,8 +5,9 @@ permalink: /cv
 ---
 
 **Academic trajectory**
+
 *2020 - 2024*: 
-Postdoctoral researcher at ENS Paris (EMBO fellow)
+Postdoctoral researcher at ENS Paris (EMBO fellow) /
 PI: N. Alex Cayco-Gajic
 
 *2016 - 2020*: 
