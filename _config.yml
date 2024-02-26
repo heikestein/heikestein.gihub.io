@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Heike Stein"
 description:	       " "
-author:              "Heike Stein"
+author:              "Heike Stein | based on Millennial, a minimalist Jekyll theme for running a blog or publication by Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
