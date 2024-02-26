@@ -6,9 +6,9 @@ permalink: /cv
 
 **Academic trajectory**
 
-*2020 - 2024*: 
-Postdoctoral researcher at ENS Paris (EMBO fellow) /
-PI: N. Alex Cayco-Gajic
+|----------------|----------------------------------------------------------------------------------|
+| *2020 - 2024*  | Postdoctoral researcher at ENS Paris (EMBO fellow) <br/> PI: N. Alex Cayco-Gajic |
+| *2016 - 2020*  | Predoctoral researcher at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow) <br/> PI: Albert Compte |
 
 *2016 - 2020*: 
 Predoctoral researcher at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow)
