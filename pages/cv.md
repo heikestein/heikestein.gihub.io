@@ -14,8 +14,7 @@ PhD student at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI:
 MSc in Cognitive Neuroscience at TU Dresden
 
 *2009 - 13*: <br/>
-BSc in Psychology at Universität Tübingen, <br/>
-Erasmus semester at UPC Madrid
+BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid
 
 ### Long CV
 
