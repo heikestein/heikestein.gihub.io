@@ -5,11 +5,11 @@ permalink: /cv
 ---
 
 *2020 - 24*: <br/> 
-Postdoctoral researcher at ENS Paris (EMBO fellow) <br/> 
+Postdoc at ENS Paris (EMBO fellow) <br/> 
 PI: N. Alex Cayco-Gajic
 
 *2016 - 20*: <br/>
-Predoctoral researcher at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow) <br/> 
+PhD student at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow) <br/> 
 PI: Albert Compte
 
 *2013 - 16*: <br/>
