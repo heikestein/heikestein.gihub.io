@@ -4,7 +4,7 @@ title: CV
 permalink: /cv
 ---
 
-Download a long version [<i class="fa-solid fa-file"></i>](https://heikestein.github.io/assets/documents/CV.pdf).
+Download a long version [<i class="fa-regular fa-file"></i>](https://heikestein.github.io/assets/documents/CV.pdf).
 
 *2020 - 24*: <br/>
 Postdoc at ENS Paris (EMBO fellow), PI: N. Alex Cayco-Gajic
