@@ -8,7 +8,7 @@ permalink: /cv
 Postdoc at ENS Paris (EMBO fellow), PI: N. Alex Cayco-Gajic
 
 *2016 - 20*: <br/>
-PhD student at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI: Albert Compte
+PhD in Computational Neuroscience at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI: Albert Compte
 
 *2013 - 16*: <br/>
 MSc in Cognitive Neuroscience at TU Dresden
