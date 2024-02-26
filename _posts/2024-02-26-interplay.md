@@ -11,4 +11,6 @@ In a second PhD project, I studied the neural basis of trial history biases in a
 
 We addressed a long-standing debate in the working memory field that concerns the nature of working memory codes: On the one hand, classic experimental and theoretical work has established that persistent, stimulus-tuned prefrontal activity can hold memories throughout short delays. On the other hand, more recent work claims that working memories can be held synaptically, without persistent activity. Our study showed that working memory is indeed actively encoded throughout memory delays, but as a result of that activity leaves a long-lived synaptic trace. Reactivations from this trace can occur during the inter-trial interval and gradually bias memories in the upcoming trial towards previous memory contents.
 
+### Relevant publications
+
 Barbosa, J.\*, Stein, H.\*, et al. Interplay between persistent activity and activity-silent dynamics in the prefrontal cortex underlies serial biases in working memory. Nature Neuroscience 23, 1016–1024 (2020).
