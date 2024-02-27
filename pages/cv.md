@@ -6,6 +6,8 @@ permalink: /cv
 
 Download a long version [<i class="fa-regular fa-file"></i>](https://heikestein.github.io/assets/documents/CV.pdf).
 
+### Short version
+
 2020 - 24: Postdoc at ENS Paris (EMBO fellow), PI: N. Alex Cayco-Gajic
 
 2016 - 20: PhD in Computational Neuroscience at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI: Albert Compte
