@@ -8,9 +8,9 @@ Download a long version [<i class="fa-regular fa-file"></i>](https://heikestein.
 
 ### Short version
 
-2020 - 24: Postdoc at ENS Paris (EMBO fellow), PI: N. Alex Cayco-Gajic
+2020 - 24: Postdoc at ENS Paris in Alex Cayco-Gajic's lab (EMBO fellow)
 
-2016 - 20: PhD in Computational Neuroscience at IDIBAPS Barcelona (Marie Sklodowska-Curie & la Caixa fellow), PI: Albert Compte
+2016 - 20: PhD in Computational Neuroscience at IDIBAPS Barcelona in Albert Compte's lab (Marie Sklodowska-Curie & la Caixa fellow)
 
 2013 - 16: MSc in Cognitive Neuroscience at TU Dresden
 
