@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers
 ---
 
-Click <i class="fa fa-lock"></i> for published articles, <i class="fa fa-unlock"></i> to download the article as pdf,  <i class="fa fa-terminal"></i> for code and <i class="fa fa-table"></i> for data, <i class="fab fa-youtube"></i> for a youtube talk on the specific work; check my Google Scholar [<i class="fab fa-google-scholar"></i>](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en).
+Click <i class="fa fa-unlock"></i> to download the article as pdf,  <i class="fa fa-terminal"></i> for code and <i class="fa fa-table"></i> for data, <i class="fab fa-youtube"></i> for a youtube talk on the specific work; check my Google Scholar [<i class="fab fa-google-scholar"></i>](https://scholar.google.es/citations?user=dBrsOCMAAAAJ&hl=en).
 
 
 ### Preprints, in review, in preparation
@@ -24,7 +24,7 @@ Guasp, M., Rosa-Justicia, M., Munoz-Lopetegi, A., Martinez-Hernandez, E., Armang
 
 Ding, X., Lee, D., Grant, S., Stein, H., McIntosh, L., Maheswaranathan, N., Baccus, S. A. A mechanistically interpretable model of the retinal neural code for natural scenes with multiscale adaptive dynamics. 55th Asilomar Conference on Signals, Systems, and Computers (IEEE), 287-291 (2021).
 
-Stein, H.\*, Barbosa, J.\*, Rosa-Justicia, M., Prades, L., Morato, A., Galan-Gadea, A., Arino, H., Martinez-Hernandez, E., Castro-Fornieles, J., Dalmau, J. & Compte, A. Reduced serial dependence suggests deficits in synaptic potentiation in antiNMDAR encephalitis and schizophrenia. Nature Communications 11, 4250 (2020). [<i class="fa fa-lock"></i>](https://www.nature.com/articles/s41467-020-18033-3) [<i class="fa fa-unlock"></i>](heikestein.github.io/assets/documents/Stein_NatComm_2020.pdf)
+Stein, H.\*, Barbosa, J.\*, Rosa-Justicia, M., Prades, L., Morato, A., Galan-Gadea, A., Arino, H., Martinez-Hernandez, E., Castro-Fornieles, J., Dalmau, J. & Compte, A. Reduced serial dependence suggests deficits in synaptic potentiation in antiNMDAR encephalitis and schizophrenia. Nature Communications 11, 4250 (2020). [<i class="fa fa-unlock"></i>](heikestein.github.io/assets/documents/Stein_NatComm_2020.pdf)
 
 Barbosa, J.\*, Stein, H.\*, Martinez, R.L., Galan-Gadea, A., Li, S. Dalmau, J. Adam, K.C.S, Valls-Sole, J., Constantinidis, C. & Compte, A. Interplay between persistent activity and activity-silent dynamics in the prefrontal cortex underlies serial biases in working memory. Nature Neuroscience 23, 1016–1024 (2020). [<i class="fa fa-unlock"></i>](heikestein.github.io/assets/documents/Barbosa_NatNeuro_2020.pdf)
 
