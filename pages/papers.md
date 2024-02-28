@@ -30,8 +30,8 @@ Barbosa, J.\*, Stein, H.\*, Martinez, R.L., Galan-Gadea, A., Li, S. Dalmau, J. A
 
 ### Review articles
 
-Barbosa, J.\*, Stein, H.\*, Zorowitz, S., Niv, Y., Summerfield, C., Soto-Faraco, S., & Hyafil, A. A practical guide for studying human behavior in the lab. Behavior Research Methods, 1-19 (2023). 
+Barbosa, J.\*, Stein, H.\*, Zorowitz, S., Niv, Y., Summerfield, C., Soto-Faraco, S., & Hyafil, A. A practical guide for studying human behavior in the lab. Behavior Research Methods, 1-19 (2023). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Barbosa_BRM_2023.pdf)
 
-Stein, H. Why does the neocortex need the cerebellum for working memory? The Journal of Neuroscience, 41, 6368-6370 (2021).
+Stein, H. Why does the neocortex need the cerebellum for working memory? The Journal of Neuroscience, 41, 6368-6370 (2021). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Stein_JNeurosci_2021.pdf)
 
 Stein, H.\*, Barbosa, J.\*, & Compte, A. Towards biologically constrained attractor models of schizophrenia. Current Opinion in Neurobiology 70, 163-170 (2021). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Stein_CurrOpNeuro_2021.pdf) [<i class="fab fa-youtube"></i>](https://www.youtube.com/watch?v=79MZ_H1Ot4g)
