@@ -13,4 +13,4 @@ We addressed a long-standing debate in the working memory field that concerns th
 
 ### Relevant publications
 
-Barbosa, J.\*, Stein, H.\*, et al. Interplay between persistent activity and activity-silent dynamics in the prefrontal cortex underlies serial biases in working memory. Nature Neuroscience 23, 1016–1024 (2020). [ [<i class="fa fa-unlock"></i>] ](https://heikestein.github.io/assets/documents/Barbosa_NatNeuro_2020.pdf) [ [<i class="fa fa-terminal"></i>](https://github.com/comptelab/interplayPFC) ]
+Barbosa, J.\*, Stein, H.\*, et al. Interplay between persistent activity and activity-silent dynamics in the prefrontal cortex underlies serial biases in working memory. Nature Neuroscience 23, 1016–1024 (2020). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Barbosa_NatNeuro_2020.pdf) [<i class="fa fa-terminal"></i>](https://github.com/comptelab/interplayPFC)
