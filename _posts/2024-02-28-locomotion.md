@@ -13,7 +13,6 @@ We asked how coordination between the different paws would emerge over the cours
 
 ### Relevant publications
 
-Stein, H., Andrianarivelo, A., Gabillet, J., Batifol, C., Jalil, A., Graupner, M., Cayco Gajic, N.A., The emergence of fixed points in interlimb coordination underlies the learning of stable gaits in mice, talk at COSYNE ‘22 and in preparation.
+Stein, H., Andrianarivelo, A., Gabillet, J., Batifol, C., Jalil, A., Graupner, M., Cayco Gajic, N.A., The emergence of fixed points in interlimb coordination underlies the learning of stable gaits in mice, talk at COSYNE ‘22 and in preparation. [<i class="fab fa-youtube"></i> (English)](https://www.youtube.com/watch?v=DvsflwKOWs0&t=10960s) [<i class="fab fa-youtube"></i> (Spanish)](https://www.youtube.com/watch?v=gDxyvzCach4&t=3610s)
 
-Andrianarivelo, A., Stein, H., Gabillet, J., Batifol, C., Jalil, A., Cayco Gajic, N. A., and Graupner, M. Cerebellar interneuron activity is triggered by reach endpoint during learning of a complex locomotor task. BioRxiv (2023).
-
+Andrianarivelo, A., Stein, H., Gabillet, J., Batifol, C., Jalil, A., Cayco Gajic, N. A., and Graupner, M. Cerebellar interneuron activity is triggered by reach endpoint during learning of a complex locomotor task. BioRxiv (2023). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Andrianarivelo_Biorxiv_2023.pdf)
