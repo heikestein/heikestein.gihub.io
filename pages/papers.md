@@ -18,7 +18,7 @@ Stein, H., Andrianarivelo, A., Gabillet, J., Batifol, C., Jalil, A., Graupner, M
 
 ### Published research articles
 
-Pellegrino, A.\*, Stein, H.\*, Cayco Gajic, N.A. Mixed classes of covariability in neural data. Nature Neuroscience (in press). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Pellegrino_Biorxiv_2023.pdf) [<i class="fa fa-terminal"></i>](https://github.com/arthur-pe/slicetca)
+Pellegrino, A.\*, Stein, H.\*, Cayco Gajic, N.A. Dimensionality reduction beyond neural subspaces with slice tensor component analysis. Nature Neuroscience (2024). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/Pellegrino_NatNeuro_2024.pdf) [<i class="fa fa-terminal"></i>](https://github.com/arthur-pe/slicetca)
 
 Guasp, M., Rosa-Justicia, M., Munoz-Lopetegi, A., Martinez-Hernandez, E., Armangue, T., Sugranyes, G., Stein, H., ... & the Spanish anti-NMDAR Encephalitis Study Group. Clinical characterization of patients in the post-acute stage of antiNMDA receptor encephalitis: a prospective observational cohort study and comparison with patients with schizophrenia spectrum disorders. The Lancet Neurology 21, 899-910 (2022). [<i class="fa fa-unlock"></i>](https://heikestein.github.io/assets/documents/guasp_Lancet_2022.pdf)
 
