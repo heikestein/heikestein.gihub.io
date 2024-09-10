@@ -8,12 +8,12 @@ Download a long version [<i class="fa-regular fa-file"></i>](https://heikestein.
 
 ### Short version
 
-starting 2025: Principal investigator at the Institute for Intelligent Systems and Robotics, Sorbonne Université (CNRS, chargée de recherche)
+- starting 2025: Principal investigator at the Institute for Intelligent Systems and Robotics, Sorbonne Université (CNRS, chargée de recherche)
 
-2020 - 24: Postdoc at ENS Paris in Alex Cayco-Gajic's lab (EMBO fellow)
+- 2020 - 24: Postdoc at ENS Paris in Alex Cayco-Gajic's lab (EMBO fellow)
 
-2016 - 20: PhD in Computational Neuroscience at IDIBAPS Barcelona in Albert Compte's lab (Marie Sklodowska-Curie & la Caixa fellow)
+- 2016 - 20: PhD in Computational Neuroscience at IDIBAPS Barcelona in Albert Compte's lab (Marie Sklodowska-Curie & la Caixa fellow)
 
-2013 - 16: MSc in Cognitive Neuroscience at TU Dresden
+- 2013 - 16: MSc in Cognitive Neuroscience at TU Dresden
 
-2009 - 13: BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid
+- 2009 - 13: BSc in Psychology at Universität Tübingen, Erasmus semester at UPC Madrid
