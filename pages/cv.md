@@ -8,7 +8,7 @@ Download a long version [<i class="fa-regular fa-file"></i>](https://heikestein.
 
 ### Short version
 
-2025 - : Principal investigator at the Institute for Intelligent Systems and Robotics, Sorbonne Université (CNRS, chargée de recherche)
+starting 2025: Principal investigator at the Institute for Intelligent Systems and Robotics, Sorbonne Université (CNRS, chargée de recherche)
 
 2020 - 24: Postdoc at ENS Paris in Alex Cayco-Gajic's lab (EMBO fellow)
 
