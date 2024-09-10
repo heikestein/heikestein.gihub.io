@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-I work in the Group for Neural Theory, in the Département d'Etudes Cognitives at ENS. My office is in 29 Rue d'Ulm, 75005 Paris. 
+From 2025 on, I'll be working at the Institut des Systèmes Intelligents et Robotique (ISIR). The lab is located at the Campus Pierre et Marie Curie of Sorbonne Université, 4 Place Jussieu, 75005 Paris.
 
 Write me an [email](mailto:heike.c.stein@gmail.com) or follow me on [ex twitter](https://twitter.com/heikecstein) to get in touch about science.
